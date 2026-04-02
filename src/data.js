@@ -155,6 +155,40 @@ export const suppliers = [
     { id: "merlin-mt3850evo", name: "MT3850EVO", link: "/manuals/MERLIN/MT3850EVO.pdf" }
   ]
 },
+{
+  id: "beninca",
+  name: "BENINCA",
+  logo: "logos/beninca.png",
+  models: [
+    { id: "beninca-brainy", name: "BRAINY_L8542910R8", link: "/manuals/BENINCA/BRAINY_L8542910R8.pdf" },
+    { id: "beninca-brainy-plus", name: "BRAINY_PLUS_L854200505R2", link: "/manuals/BENINCA/BRAINY_PLUS_L854200505R2.pdf" },
+    { id: "beninca-brainy24", name: "BRAINY24_L8542589R3", link: "/manuals/BENINCA/BRAINY24_L8542589R3.pdf" },
+    { id: "beninca-brainy24-sw", name: "BRAINY24_SW_L8543243R5", link: "/manuals/BENINCA/BRAINY24_SW__L8543243R5.pdf" },
+    { id: "beninca-brainy24plus", name: "BRAINY24PLUS_L854200511R0", link: "/manuals/BENINCA/BRAINY24PLUS_L854200511R0.pdf" },
+    { id: "beninca-cellp6b", name: "CELLP_6B_L8543179R3", link: "/manuals/BENINCA/CELLP_6B_L8543179R3.pdf" },
+    { id: "beninca-das04", name: "DAS04_L8542621R3", link: "/manuals/BENINCA/DASO4_L8542621R3.pdf" },
+    { id: "beninca-heady", name: "HEADY_L8542912R8", link: "/manuals/BENINCA/HEADY_L8542912R8.pdf" },
+    { id: "beninca-heady24-3b", name: "HEADY24_3B_L8543031R1", link: "/manuals/BENINCA/HEADY24_3B_L8543031R1.pdf" },
+    { id: "beninca-iricell", name: "IRICELL_L8543169R0", link: "/manuals/BENINCA/IRICELL_L8543169R0.pdf" },
+    { id: "beninca-kbftcs", name: "KBFTCS_L854200332R0", link: "/manuals/BENINCA/KBFTCS_L854200332R0.pdf" },
+    { id: "beninca-kcftcs", name: "KCFTCS_L854200334R0", link: "/manuals/BENINCA/KCFTCS_L854200334R0.pdf" },
+    { id: "beninca-krex", name: "KREX_L854200331R0", link: "/manuals/BENINCA/KREX_L854200331R0.pdf" },
+    { id: "beninca-logica7b", name: "LOGICA_7B_L8543242R3", link: "/manuals/BENINCA/LOGICA_7B_L8543242R3.pdf" },
+    { id: "beninca-logica24-7b", name: "LOGICA24_7B_L8543264R0", link: "/manuals/BENINCA/LOGICA24_7B_L8543264R0.pdf" },
+    { id: "beninca-pixel", name: "PIXEL_R1", link: "/manuals/BENINCA/PIXEL_R1.pdf" },
+    { id: "beninca-pupilla", name: "PUPILLA_PUPILLAT_R1", link: "/manuals/BENINCA/PUPILLA_PUPILLAT_R1.pdf" },
+    { id: "beninca-pupillaoc", name: "PUPILLA0C_PUPILLAT0C_R3", link: "/manuals/BENINCA/PUPILLA0C_PUPILLAT0C_R3.pdf" },
+    { id: "beninca-pupillab", name: "PUPILLAB_L8542424R5", link: "/manuals/BENINCA/PUPILLAB_L8542424R5.pdf" },
+    { id: "beninca-pupillar", name: "PUPILLAR_L8543207R0", link: "/manuals/BENINCA/PUPILLAR_L8543207R0.pdf" },
+    { id: "beninca-pupillasync", name: "PupillaSYNC_L854200642R0", link: "/manuals/BENINCA/PupillaSYNC_L854200642R0.pdf" },
+    { id: "beninca-scp300", name: "SCP30QIS_SCP30QES_L8542339R2", link: "/manuals/BENINCA/SCP30QIS_SCP30QES_L8542339R2.pdf" },
+    { id: "beninca-think", name: "THINK_L8542632R8", link: "/manuals/BENINCA/THINK_L8542632R8.pdf" },
+    { id: "beninca-thinky", name: "THINKY_L8543228R1", link: "/manuals/BENINCA/THINKY_L8543228R1.pdf" },
+    { id: "beninca-thinky-i", name: "THINKY-I_L854200031R0", link: "/manuals/BENINCA/THINKY-I_L854200031R0.pdf" },
+    { id: "beninca-tilt24", name: "TITLTY24_L85400513R2", link: "/manuals/BENINCA/TITLTY24_L85400513R2.pdf" },
+    { id: "beninca-trust24", name: "TRUST24_L854200409R4", link: "/manuals/BENINCA/TRUST24_L854200409R4.pdf" }
+  ]
+},
   {
     id: "nice",
     name: "Nice",
@@ -170,15 +204,6 @@ export const suppliers = [
     models: [
       { id: "vds-740", name: "740", link: "/manuals/740.pdf" },
       { id: "vds-741", name: "741", link: "/manuals/741.pdf" }
-    ]
-  },
-  {
-    id: "beninca",
-    name: "BENINCA",
-    logo: "logos/beninca.png",
-    models: [
-      { id: "beninca-740", name: "740", link: "/manuals/740.pdf" },
-      { id: "beninca-741", name: "741", link: "/manuals/741.pdf" }
     ]
   },
   {
