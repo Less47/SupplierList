@@ -190,22 +190,54 @@ export const suppliers = [
   ]
 },
   {
-    id: "nice",
-    name: "Nice",
-    logo: "logos/nice.png",
-    models: [
-      { id: "nice-robus-600", name: "Robus 600", link: "/manuals/ELSET_FLYER_EMAIL.pdf" }
-    ]
-  },
-  {
-    id: "vds",
-    name: "VDS",
-    logo: "logos/vds.png",
-    models: [
-      { id: "vds-740", name: "740", link: "/manuals/740.pdf" },
-      { id: "vds-741", name: "741", link: "/manuals/741.pdf" }
-    ]
-  },
+  id: "nice",
+  name: "Nice",
+  logo: "logos/nice.png",
+  models: [
+    { id: "nice-a0-a0r", name: "A0-A0R", link: "/manuals/NICE/A0-A0R.pdf" },
+    { id: "nice-a3-a3f", name: "A3-A3F", link: "/manuals/NICE/A3-A3F.pdf" },
+    { id: "nice-a5", name: "A5", link: "/manuals/NICE/A5.pdf" },
+    { id: "nice-dpro500", name: "DPRO500", link: "/manuals/NICE/DPRO500.pdf" },
+    { id: "nice-dpro924", name: "DPRO924", link: "/manuals/NICE/DPRO924.pdf" },
+    { id: "nice-mc200", name: "MC200", link: "/manuals/NICE/MC200.pdf" },
+    { id: "nice-mc424", name: "MC424", link: "/manuals/NICE/MC424.pdf" },
+    { id: "nice-mc424l", name: "MC424L", link: "/manuals/NICE/MC424L.pdf" },
+    { id: "nice-mc800", name: "MC800", link: "/manuals/NICE/MC800.pdf" },
+    { id: "nice-mc824h", name: "MC824H", link: "/manuals/NICE/MC824H.pdf" },
+    { id: "nice-mc824l", name: "MC824L", link: "/manuals/NICE/MC824L.pdf" },
+    { id: "nice-mca2", name: "MCA2", link: "/manuals/NICE/MCA2.pdf" },
+    { id: "nice-mindy-a01", name: "Mindy A01", link: "/manuals/NICE/Mindy A01.pdf" },
+    { id: "nice-mindy-a02", name: "Mindy A02", link: "/manuals/NICE/Mindy A02.pdf" },
+    { id: "nice-mindy-a6-a6f-a700f", name: "Mindy A6-A6F-A700F", link: "/manuals/NICE/Mindy A6-A6F-A700F.pdf" },
+    { id: "nice-mindy-a60", name: "Mindy A60", link: "/manuals/NICE/Mindy A60.pdf" },
+    { id: "nice-mindy-a100f", name: "Mindy A100F", link: "/manuals/NICE/Mindy A100F.pdf" },
+    { id: "nice-mindy-a400", name: "Mindy A400", link: "/manuals/NICE/Mindy A400.pdf" },
+    { id: "nice-mindy-a500", name: "Mindy A500", link: "/manuals/NICE/Mindy A500.pdf" },
+    { id: "nice-mindy-a824", name: "Mindy A824", link: "/manuals/NICE/Mindy A824.pdf" },
+    { id: "nice-mindy-a924", name: "Mindy A924", link: "/manuals/NICE/Mindy A924.pdf" },
+    { id: "nice-mindy-tt0", name: "Mindy TT0", link: "/manuals/NICE/Mindy TT0.pdf" },
+    { id: "nice-mindy-tt1l", name: "Mindy TT1L", link: "/manuals/NICE/Mindy TT1L.pdf" },
+    { id: "nice-mindy-tt1n", name: "Mindy TT1N", link: "/manuals/NICE/Mindy TT1N.pdf" },
+    { id: "nice-mindy-tt1v", name: "Mindy TT1V", link: "/manuals/NICE/Mindy TT1V.pdf" }
+  ]
+},
+{
+  id: "vds",
+  name: "VDS",
+  logo: "logos/vds.png",
+  models: [
+    { id: "vds-ctr41", name: "CTR41", link: "/manuals/VDS/CTR41.pdf" },
+    { id: "vds-euro12m2", name: "EURO12M2_(E109)", link: "/manuals/VDS/EURO12M2_(E109).pdf" },
+    { id: "vds-euro23m1", name: "EURO23M1_(E102)", link: "/manuals/VDS/EURO23M1_(E102).pdf" },
+    { id: "vds-euro24m1", name: "EURO24M1_(E103)", link: "/manuals/VDS/EURO24M1_(E103).pdf" },
+    { id: "vds-euro24m2", name: "EURO24M2_(E106)", link: "/manuals/VDS/EURO24M2_(E106).pdf" },
+    { id: "vds-euro24pr", name: "EURO24PR_(E108)", link: "/manuals/VDS/EURO24PR_(E108).pdf" },
+    { id: "vds-euro230m2", name: "EURO230M2_(E105)", link: "/manuals/VDS/EURO230M2_(E105).pdf" },
+    { id: "vds-euro380m1", name: "EURO380M1_(E107)", link: "/manuals/VDS/EURO380M1_(E107).pdf" },
+    { id: "vds-eurosr2", name: "EUROSR2_(E101)", link: "/manuals/VDS/EUROSR2_(E101).pdf" },
+    { id: "vds-ra-ra1-ra1bj", name: "RA-RA1-RA1BJ", link: "/manuals/VDS/RA-RA1-RA1BJ.pdf" }
+  ]
+},
   {
     id: "ditec",
     name: "DITEC",
