@@ -238,6 +238,61 @@ export const suppliers = [
     { id: "vds-ra-ra1-ra1bj", name: "RA-RA1-RA1BJ", link: "/manuals/VDS/RA-RA1-RA1BJ.pdf" }
   ]
 },
+{
+  id: "ata",
+  name: "ATA",
+  logo: "logos/ata.png",
+  models: [
+    { id: "ata-axess-1101", name: "Axess_1101", link: "/manuals/ATA/Axess_1101.pdf" },
+    { id: "ata-axess-pro-1505", name: "Axess_Pro_1505", link: "/manuals/ATA/Axess_Pro_1505.pdf" },
+    { id: "ata-axess-pro-3100", name: "Axess_Pro_3100", link: "/manuals/ATA/Axess_Pro_3100.pdf" },
+    { id: "ata-axess-pro-3300", name: "Axess_Pro_3300", link: "/manuals/ATA/Axess_Pro_3300.pdf" },
+    { id: "ata-cb9v2", name: "CB9v2", link: "/manuals/ATA/CB9v2.pdf" },
+    { id: "ata-cb9v3", name: "CB9v3", link: "/manuals/ATA/CB9v3.pdf" },
+    { id: "ata-cb19", name: "CB19", link: "/manuals/ATA/CB19.pdf" },
+    { id: "ata-dave", name: "DAVE", link: "/manuals/ATA/DAVE.pdf" },
+    { id: "ata-dbc-05", name: "DBC-05", link: "/manuals/ATA/DBC-05.pdf" },
+    { id: "ata-gdo2", name: "GDO2", link: "/manuals/ATA/GDO2.pdf" },
+    { id: "ata-gdo4", name: "GDO4", link: "/manuals/ATA/GDO4.pdf" },
+    { id: "ata-gdo6", name: "GDO6", link: "/manuals/ATA/GDO6.pdf" },
+    { id: "ata-gdo7", name: "GDO7", link: "/manuals/ATA/GDO7.pdf" },
+    { id: "ata-gdo8", name: "GDO8", link: "/manuals/ATA/GDO8.pdf" },
+    { id: "ata-gdo9", name: "GDO9", link: "/manuals/ATA/GDO9.pdf" },
+    { id: "ata-gdo9v2", name: "GDO9v2", link: "/manuals/ATA/GDO9v2.pdf" },
+    { id: "ata-gdo10v1", name: "GDO10v1", link: "/manuals/ATA/GDO10v1.pdf" },
+    { id: "ata-gdo11v1", name: "GDO11v1", link: "/manuals/ATA/GDO11v1.pdf" },
+    { id: "ata-gdo11v1-ero", name: "GDO11v1Ero", link: "/manuals/ATA/GDO11v1Ero.pdf" },
+    { id: "ata-gdo12", name: "GDO12", link: "/manuals/ATA/GDO12.pdf" },
+    { id: "ata-nes-24v1-neoslider", name: "NES-24V1_NeoSlider", link: "/manuals/ATA/NES-24V1_NeoSlider.pdf" },
+    { id: "ata-nes-500", name: "NES-500", link: "/manuals/ATA/NES-500.pdf" },
+    { id: "ata-nes-800", name: "NES-800", link: "/manuals/ATA/NES-800.pdf" },
+    { id: "ata-sgo-1", name: "SGO-1", link: "/manuals/ATA/SGO-1.pdf" },
+    { id: "ata-sgo-1v4", name: "SGO-1v4", link: "/manuals/ATA/SGO-1v4.pdf" },
+    { id: "ata-syncro-ats-3", name: "SYNCRO_ATS-3", link: "/manuals/ATA/SYNCRO_ATS-3.pdf" },
+    { id: "ata-tempo-ats-2", name: "TEMPO_ATS-2", link: "/manuals/ATA/TEMPO_ATS-2.pdf" }
+  ]
+},
+{
+  id: "grifco",
+  name: "GRIFCO",
+  logo: "logos/grifco.png",
+  models: [
+    { id: "grifco-e-drive-ml6053", name: "E-DRIVE_(ML6053)", link: "/manuals/GRIFCO/E-DRIVE_(ML6053).pdf" },
+    { id: "grifco-e-drive-rkml-rml6053", name: "E-DRIVE_RKML_(RML6053)", link: "/manuals/GRIFCO/E-DRIVE_RKML_(RML6053).pdf" },
+    { id: "grifco-h-drive-ehd-hh303m", name: "H-Drive_EHD_(HH303M)", link: "/manuals/GRIFCO/H-Drive_EHD_(HH303M).pdf" },
+    { id: "grifco-w400b", name: "W400B", link: "/manuals/GRIFCO/W400B.pdf" },
+    { id: "grifco-w800c", name: "W800C", link: "/manuals/GRIFCO/W800C.pdf" },
+    { id: "grifco-mspc8-10-12", name: "MSPC8-10-12", link: "/manuals/GRIFCO/MSPC8-10-12.pdf" },
+    { id: "grifco-h-drive-hd-hh153m", name: "H-Drive_HD_(HH153M)", link: "/manuals/GRIFCO/H-Drive_HD_(HH153M).pdf" },
+    { id: "grifco-gld-go-ggs1000", name: "GLD-GO_(GGS1000)", link: "/manuals/GRIFCO/GLD-GO_(GGS1000).pdf" },
+    { id: "grifco-gld-go-lv-ggs1000", name: "GLD-GO-LV_(GGS1000)", link: "/manuals/GRIFCO/GLD-GO-LV_(GGS1000).pdf" },
+    { id: "grifco-gld-rdo", name: "GLD-RDO", link: "/manuals/GRIFCO/GLD-RDO.pdf" },
+    { id: "grifco-gld-sdo", name: "GLD-SDO", link: "/manuals/GRIFCO/GLD-SDO.pdf" },
+    { id: "grifco-m-drive-ml053m", name: "M-DRIVE_(ML053M)", link: "/manuals/GRIFCO/M-DRIVE_(ML053M).pdf" },
+    { id: "grifco-cg3800", name: "CG3800", link: "/manuals/GRIFCO/CG3800.pdf" },
+    { id: "grifco-lr-drive", name: "LR-DRIVE", link: "/manuals/GRIFCO/LR-DRIVE.pdf" }
+  ]
+},
   {
     id: "ditec",
     name: "DITEC",
@@ -284,15 +339,6 @@ export const suppliers = [
     ]
   },
   {
-    id: "ata",
-    name: "ATA",
-    logo: "logos/ata.png",
-    models: [
-      { id: "ata-740", name: "740", link: "/manuals/740.pdf" },
-      { id: "ata-741", name: "741", link: "/manuals/741.pdf" }
-    ]
-  },
-  {
     id: "steel-line",
     name: "STEEL-LINE",
     logo: "logos/steel-line.png",
@@ -308,15 +354,6 @@ export const suppliers = [
     models: [
       { id: "gliderol-740", name: "740", link: "/manuals/740.pdf" },
       { id: "gliderol-741", name: "741", link: "/manuals/741.pdf" }
-    ]
-  },
-  {
-    id: "grifco",
-    name: "GRIFCO",
-    logo: "logos/grifco.png",
-    models: [
-      { id: "grifco-740", name: "740", link: "/manuals/740.pdf" },
-      { id: "grifco-741", name: "741", link: "/manuals/741.pdf" }
     ]
   },
   {
