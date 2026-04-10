@@ -1,0 +1,1078 @@
+[
+  {
+    "supplier": "FAAC",
+    "models": [
+      {
+        "name": "200BT",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/200BT.pdf"
+      },
+      {
+        "name": "200MPS",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/200MPS.pdf"
+      },
+      {
+        "name": "400MP",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/400MP.pdf"
+      },
+      {
+        "name": "401MP",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/401MP.pdf"
+      },
+      {
+        "name": "401MPS",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/401MPS.pdf"
+      },
+      {
+        "name": "402MPS",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/402MPS.pdf"
+      },
+      {
+        "name": "410MPS",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/410MPS.pdf"
+      },
+      {
+        "name": "424DLS",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/424DLS.pdf"
+      },
+      {
+        "name": "424MPS",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/424MPS.pdf"
+      },
+      {
+        "name": "450MPS",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/450MPS.pdf"
+      },
+      {
+        "name": "452MPS",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/452MPS.pdf"
+      },
+      {
+        "name": "455D",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/455D.pdf"
+      },
+      {
+        "name": "460P",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/460P.pdf"
+      },
+      {
+        "name": "462DF",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/462DF.pdf"
+      },
+      {
+        "name": "500RC",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/500RC.pdf"
+      },
+      {
+        "name": "531R",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/531R.pdf"
+      },
+      {
+        "name": "540BPR",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/540BPR.pdf"
+      },
+      {
+        "name": "550ITT",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/550ITT.pdf"
+      },
+      {
+        "name": "578D",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/578D.pdf"
+      },
+      {
+        "name": "596 / 615 BPR",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/596_615BPR.pdf"
+      },
+      {
+        "name": "596MPS / 610MPS",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/596MPS_610MPS.pdf"
+      },
+      {
+        "name": "624BLD",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/624BLD.pdf"
+      },
+      {
+        "name": "724D",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/724D.pdf"
+      },
+      {
+        "name": "740D",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/740D.pdf"
+      },
+      {
+        "name": "844MP",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/844MP.pdf"
+      },
+      {
+        "name": "844MPSR",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/844MPSR.pdf"
+      },
+      {
+        "name": "844T",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/844T.pdf"
+      },
+      {
+        "name": "884T",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/884T.pdf"
+      },
+      {
+        "name": "A453",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/A453.pdf"
+      },
+      {
+        "name": "E012",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E012.pdf"
+      },
+      {
+        "name": "E012S",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E012S.pdf"
+      },
+      {
+        "name": "E024",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E024.pdf"
+      },
+      {
+        "name": "E024S",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E024S.pdf"
+      },
+      {
+        "name": "E034",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E034.pdf"
+      },
+      {
+        "name": "E045",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E045.pdf"
+      },
+      {
+        "name": "E045S",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E045S.pdf"
+      },
+      {
+        "name": "E124",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E124.pdf"
+      },
+      {
+        "name": "E124S",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E124S.pdf"
+      },
+      {
+        "name": "E145",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E145.pdf"
+      },
+      {
+        "name": "E145S",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E145S.pdf"
+      },
+      {
+        "name": "E391",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E391.pdf"
+      },
+      {
+        "name": "E550",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E550.pdf"
+      },
+      {
+        "name": "E604",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E604.pdf"
+      },
+      {
+        "name": "E605",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E605.pdf"
+      },
+      {
+        "name": "E607",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E607.pdf"
+      },
+      {
+        "name": "E700",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E700.pdf"
+      },
+      {
+        "name": "E720",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E720.pdf"
+      },
+      {
+        "name": "E721",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E721.pdf"
+      },
+      {
+        "name": "E844 3PH",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/E844_3PH.pdf"
+      },
+      {
+        "name": "JE275",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/FAAC/JE275.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "DEA",
+    "models": [
+      {
+        "name": "203RR",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/DEA/203RR.pdf"
+      },
+      {
+        "name": "211E / 211ER",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/DEA/211E-211ER.pdf"
+      },
+      {
+        "name": "212E",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/DEA/212E.pdf"
+      },
+      {
+        "name": "400RR",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/DEA/400RR.pdf"
+      },
+      {
+        "name": "NET230N",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/DEA/NET230N.pdf"
+      },
+      {
+        "name": "NET24N",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/DEA/NET24N.pdf"
+      },
+      {
+        "name": "NET724-EVO",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/DEA/NET724-EVO.pdf"
+      },
+      {
+        "name": "NET-COM",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/DEA/NET-COM.pdf"
+      },
+      {
+        "name": "NET-CPU-EVO",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/DEA/NET-CPU-EVO.pdf"
+      },
+      {
+        "name": "NET-EXP",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/DEA/NET-EXP.pdf"
+      },
+      {
+        "name": "NET-NODE",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/DEA/NET-NODE.pdf"
+      },
+      {
+        "name": "SSE12",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/DEA/SSE12.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "BFT",
+    "models": [
+      {
+        "name": "Leo B CBB",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BFT/LeoBCBB.pdf"
+      },
+      {
+        "name": "Perso CBE",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BFT/PerseoCBE.pdf"
+      },
+      {
+        "name": "Rigel 6",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BFT/Rigel6.pdf"
+      },
+      {
+        "name": "Thalia BT A80",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BFT/ThaliaBTA80.pdf"
+      },
+      {
+        "name": "Thalia L",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BFT/ThaliaL.pdf"
+      },
+      {
+        "name": "Thalia P",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BFT/ThaliaP.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "RIB",
+    "models": [
+      {
+        "name": "AQM11",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/aqm11.pdf"
+      },
+      {
+        "name": "AQM111",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/aqm111.pdf"
+      },
+      {
+        "name": "AQM11R",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/aqm11r.pdf"
+      },
+      {
+        "name": "B2",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/B2.pdf"
+      },
+      {
+        "name": "B2 24V",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/B224V.pdf"
+      },
+      {
+        "name": "B2D 24V",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/B2D24V.pdf"
+      },
+      {
+        "name": "BRA11",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/BRA11.pdf"
+      },
+      {
+        "name": "BRA111",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/bra111.pdf"
+      },
+      {
+        "name": "DE1",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/DE1.pdf"
+      },
+      {
+        "name": "DE11",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/de11.pdf"
+      },
+      {
+        "name": "EC11",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/ec11.pdf"
+      },
+      {
+        "name": "EC11 FE",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/ec11fe.pdf"
+      },
+      {
+        "name": "EURO",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/euro.pdf"
+      },
+      {
+        "name": "EUROBAR",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/eurobar.pdf"
+      },
+      {
+        "name": "EUROP 12",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/europ12.pdf"
+      },
+      {
+        "name": "EUROP FE",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/europfe.pdf"
+      },
+      {
+        "name": "L1",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/L1.pdf"
+      },
+      {
+        "name": "L1 24V",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/L124V.pdf"
+      },
+      {
+        "name": "L1 / R2 / R4",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/L1R2R4.pdf"
+      },
+      {
+        "name": "P1",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/P1.pdf"
+      },
+      {
+        "name": "Q11",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/Q11.pdf"
+      },
+      {
+        "name": "T2",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/RIB/T2.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "MERLIN",
+    "models": [
+      {
+        "name": "A200",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/A200.pdf"
+      },
+      {
+        "name": "L300",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/L300.pdf"
+      },
+      {
+        "name": "LR500",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/LR500.pdf"
+      },
+      {
+        "name": "MGSK600",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MGSK600.pdf"
+      },
+      {
+        "name": "MJ3800",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MJ3800.pdf"
+      },
+      {
+        "name": "MJ3800MYQ",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MJ3800MYQ.pdf"
+      },
+      {
+        "name": "MR550EVO",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MR550EVO.pdf"
+      },
+      {
+        "name": "MR650",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MR650.pdf"
+      },
+      {
+        "name": "MR650EVO",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MR650EVO.pdf"
+      },
+      {
+        "name": "MR655EVO",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MR655EVO.pdf"
+      },
+      {
+        "name": "MR655MYQ",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MR655MYQ.pdf"
+      },
+      {
+        "name": "MR800",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MR800.pdf"
+      },
+      {
+        "name": "MR850EVO",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MR850EVO.pdf"
+      },
+      {
+        "name": "MR855EVO",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MR855EVO.pdf"
+      },
+      {
+        "name": "MR855MYQ",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MR855MYQ.pdf"
+      },
+      {
+        "name": "MR865MYQ",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MR865MYQ.pdf"
+      },
+      {
+        "name": "MS65MYQ",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MS65MYQ.pdf"
+      },
+      {
+        "name": "MS105MYQ",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MS105MYQ.pdf"
+      },
+      {
+        "name": "MS125MYQ",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MS125MYQ.pdf"
+      },
+      {
+        "name": "MS127MYQ",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MS127MYQ.pdf"
+      },
+      {
+        "name": "MS137MYQ",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MS137MYQ.pdf"
+      },
+      {
+        "name": "MT50EVO",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MT50EVO.pdf"
+      },
+      {
+        "name": "MT60",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MT60.pdf"
+      },
+      {
+        "name": "MT60EVO",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MT60EVO.pdf"
+      },
+      {
+        "name": "MT100EVO",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MT100EVO.pdf"
+      },
+      {
+        "name": "MT110MYQ",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MT110MYQ.pdf"
+      },
+      {
+        "name": "MT120EVO",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MT120EVO.pdf"
+      },
+      {
+        "name": "MT600",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MT600.pdf"
+      },
+      {
+        "name": "MT800",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MT800.pdf"
+      },
+      {
+        "name": "MT1000",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MT1000.pdf"
+      },
+      {
+        "name": "MT3850EVO",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/MERLIN/MT3850EVO.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "BENINCA",
+    "models": [
+      {
+        "name": "BRAINY_L8542910R8",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/BRAINY_L8542910R8.pdf"
+      },
+      {
+        "name": "BRAINY_PLUS_L854200505R2",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/BRAINY_PLUS_L854200505R2.pdf"
+      },
+      {
+        "name": "BRAINY24_L8542589R3",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/BRAINY24_L8542589R3.pdf"
+      },
+      {
+        "name": "BRAINY24_SW_L8543243R5",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/BRAINY24_SW__L8543243R5.pdf"
+      },
+      {
+        "name": "BRAINY24PLUS_L854200511R0",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/BRAINY24PLUS_L854200511R0.pdf"
+      },
+      {
+        "name": "CELLP_6B_L8543179R3",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/CELLP_6B_L8543179R3.pdf"
+      },
+      {
+        "name": "DAS04_L8542621R3",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/DASO4_L8542621R3.pdf"
+      },
+      {
+        "name": "HEADY_L8542912R8",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/HEADY_L8542912R8.pdf"
+      },
+      {
+        "name": "HEADY24_3B_L8543031R1",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/HEADY24_3B_L8543031R1.pdf"
+      },
+      {
+        "name": "IRICELL_L8543169R0",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/IRICELL_L8543169R0.pdf"
+      },
+      {
+        "name": "KBFTCS_L854200332R0",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/KBFTCS_L854200332R0.pdf"
+      },
+      {
+        "name": "KCFTCS_L854200334R0",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/KCFTCS_L854200334R0.pdf"
+      },
+      {
+        "name": "KREX_L854200331R0",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/KREX_L854200331R0.pdf"
+      },
+      {
+        "name": "LOGICA_7B_L8543242R3",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/LOGICA_7B_L8543242R3.pdf"
+      },
+      {
+        "name": "LOGICA24_7B_L8543264R0",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/LOGICA24_7B_L8543264R0.pdf"
+      },
+      {
+        "name": "PIXEL_R1",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/PIXEL_R1.pdf"
+      },
+      {
+        "name": "PUPILLA_PUPILLAT_R1",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/PUPILLA_PUPILLAT_R1.pdf"
+      },
+      {
+        "name": "PUPILLA0C_PUPILLAT0C_R3",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/PUPILLA0C_PUPILLAT0C_R3.pdf"
+      },
+      {
+        "name": "PUPILLAB_L8542424R5",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/PUPILLAB_L8542424R5.pdf"
+      },
+      {
+        "name": "PUPILLAR_L8543207R0",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/PUPILLAR_L8543207R0.pdf"
+      },
+      {
+        "name": "PupillaSYNC_L854200642R0",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/PupillaSYNC_L854200642R0.pdf"
+      },
+      {
+        "name": "SCP30QIS_SCP30QES_L8542339R2",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/SCP30QIS_SCP30QES_L8542339R2.pdf"
+      },
+      {
+        "name": "THINK_L8542632R8",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/THINK_L8542632R8.pdf"
+      },
+      {
+        "name": "THINKY_L8543228R1",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/THINKY_L8543228R1.pdf"
+      },
+      {
+        "name": "THINKY-I_L854200031R0",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/THINKY-I_L854200031R0.pdf"
+      },
+      {
+        "name": "TITLTY24_L85400513R2",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/TITLTY24_L85400513R2.pdf"
+      },
+      {
+        "name": "TRUST24_L854200409R4",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/BENINCA/TRUST24_L854200409R4.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "Nice",
+    "models": [
+      {
+        "name": "A0-A0R",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/A0-A0R.pdf"
+      },
+      {
+        "name": "A3-A3F",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/A3-A3F.pdf"
+      },
+      {
+        "name": "A5",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/A5.pdf"
+      },
+      {
+        "name": "DPRO500",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/DPRO500.pdf"
+      },
+      {
+        "name": "DPRO924",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/DPRO924.pdf"
+      },
+      {
+        "name": "MC200",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/MC200.pdf"
+      },
+      {
+        "name": "MC424",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/MC424.pdf"
+      },
+      {
+        "name": "MC424L",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/MC424L.pdf"
+      },
+      {
+        "name": "MC800",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/MC800.pdf"
+      },
+      {
+        "name": "MC824H",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/MC824H.pdf"
+      },
+      {
+        "name": "MC824L",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/MC824L.pdf"
+      },
+      {
+        "name": "MCA2",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/MCA2.pdf"
+      },
+      {
+        "name": "Mindy A01",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/Mindy%20A01.pdf"
+      },
+      {
+        "name": "Mindy A02",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/Mindy%20A02.pdf"
+      },
+      {
+        "name": "Mindy A6-A6F-A700F",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/Mindy%20A6-A6F-A700F.pdf"
+      },
+      {
+        "name": "Mindy A60",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/Mindy%20A60.pdf"
+      },
+      {
+        "name": "Mindy A100F",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/Mindy%20A100F.pdf"
+      },
+      {
+        "name": "Mindy A400",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/Mindy%20A400.pdf"
+      },
+      {
+        "name": "Mindy A500",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/Mindy%20A500.pdf"
+      },
+      {
+        "name": "Mindy A824",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/Mindy%20A824.pdf"
+      },
+      {
+        "name": "Mindy A924",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/Mindy%20A924.pdf"
+      },
+      {
+        "name": "Mindy TT0",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/Mindy%20TT0.pdf"
+      },
+      {
+        "name": "Mindy TT1L",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/Mindy%20TT1L.pdf"
+      },
+      {
+        "name": "Mindy TT1N",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/Mindy%20TT1N.pdf"
+      },
+      {
+        "name": "Mindy TT1V",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/NICE/Mindy%20TT1V.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "VDS",
+    "models": [
+      {
+        "name": "CTR41",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/VDS/CTR41.pdf"
+      },
+      {
+        "name": "EURO12M2_(E109)",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/VDS/EURO12M2_(E109).pdf"
+      },
+      {
+        "name": "EURO23M1_(E102)",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/VDS/EURO23M1_(E102).pdf"
+      },
+      {
+        "name": "EURO24M1_(E103)",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/VDS/EURO24M1_(E103).pdf"
+      },
+      {
+        "name": "EURO24M2_(E106)",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/VDS/EURO24M2_(E106).pdf"
+      },
+      {
+        "name": "EURO24PR_(E108)",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/VDS/EURO24PR_(E108).pdf"
+      },
+      {
+        "name": "EURO230M2_(E105)",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/VDS/EURO230M2_(E105).pdf"
+      },
+      {
+        "name": "EURO380M1_(E107)",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/VDS/EURO380M1_(E107).pdf"
+      },
+      {
+        "name": "EUROSR2_(E101)",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/VDS/EUROSR2_(E101).pdf"
+      },
+      {
+        "name": "RA-RA1-RA1BJ",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/VDS/RA-RA1-RA1BJ.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "ATA",
+    "models": [
+      {
+        "name": "Axess_1101",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/Axess_1101.pdf"
+      },
+      {
+        "name": "Axess_Pro_1505",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/Axess_Pro_1505.pdf"
+      },
+      {
+        "name": "Axess_Pro_3100",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/Axess_Pro_3100.pdf"
+      },
+      {
+        "name": "Axess_Pro_3300",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/Axess_Pro_3300.pdf"
+      },
+      {
+        "name": "CB9v2",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/CB9v2.pdf"
+      },
+      {
+        "name": "CB9v3",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/CB9v3.pdf"
+      },
+      {
+        "name": "CB19",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/CB19.pdf"
+      },
+      {
+        "name": "DAVE",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/DAVE.pdf"
+      },
+      {
+        "name": "DBC-05",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/DBC-05.pdf"
+      },
+      {
+        "name": "GDO2",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/GDO2.pdf"
+      },
+      {
+        "name": "GDO4",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/GDO4.pdf"
+      },
+      {
+        "name": "GDO6",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/GDO6.pdf"
+      },
+      {
+        "name": "GDO7",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/GDO7.pdf"
+      },
+      {
+        "name": "GDO8",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/GDO8.pdf"
+      },
+      {
+        "name": "GDO9",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/GDO9.pdf"
+      },
+      {
+        "name": "GDO9v2",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/GDO9v2.pdf"
+      },
+      {
+        "name": "GDO10v1",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/GDO10v1.pdf"
+      },
+      {
+        "name": "GDO11v1",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/GDO11v1.pdf"
+      },
+      {
+        "name": "GDO11v1Ero",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/GDO11v1Ero.pdf"
+      },
+      {
+        "name": "GDO12",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/GDO12.pdf"
+      },
+      {
+        "name": "NES-24V1_NeoSlider",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/NES-24V1_NeoSlider.pdf"
+      },
+      {
+        "name": "NES-500",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/NES-500.pdf"
+      },
+      {
+        "name": "NES-800",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/NES-800.pdf"
+      },
+      {
+        "name": "SGO-1",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/SGO-1.pdf"
+      },
+      {
+        "name": "SGO-1v4",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/SGO-1v4.pdf"
+      },
+      {
+        "name": "SYNCRO_ATS-3",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/SYNCRO_ATS-3.pdf"
+      },
+      {
+        "name": "TEMPO_ATS-2",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/ATA/TEMPO_ATS-2.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "GRIFCO",
+    "models": [
+      {
+        "name": "E-DRIVE_(ML6053)",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/GRIFCO/E-DRIVE_(ML6053).pdf"
+      },
+      {
+        "name": "E-DRIVE_RKML_(RML6053)",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/GRIFCO/E-DRIVE_RKML_(RML6053).pdf"
+      },
+      {
+        "name": "H-Drive_EHD_(HH303M)",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/GRIFCO/H-Drive_EHD_(HH303M).pdf"
+      },
+      {
+        "name": "W400B",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/GRIFCO/W400B.pdf"
+      },
+      {
+        "name": "W800C",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/GRIFCO/W800C.pdf"
+      },
+      {
+        "name": "MSPC8-10-12",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/GRIFCO/MSPC8-10-12.pdf"
+      },
+      {
+        "name": "H-Drive_HD_(HH153M)",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/GRIFCO/H-Drive_HD_(HH153M).pdf"
+      },
+      {
+        "name": "GLD-GO_(GGS1000)",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/GRIFCO/GLD-GO_(GGS1000).pdf"
+      },
+      {
+        "name": "GLD-GO-LV_(GGS1000)",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/GRIFCO/GLD-GO-LV_(GGS1000).pdf"
+      },
+      {
+        "name": "GLD-RDO",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/GRIFCO/GLD-RDO.pdf"
+      },
+      {
+        "name": "GLD-SDO",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/GRIFCO/GLD-SDO.pdf"
+      },
+      {
+        "name": "M-DRIVE_(ML053M)",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/GRIFCO/M-DRIVE_(ML053M).pdf"
+      },
+      {
+        "name": "CG3800",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/GRIFCO/CG3800.pdf"
+      },
+      {
+        "name": "LR-DRIVE",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/GRIFCO/LR-DRIVE.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "DITEC",
+    "models": [
+      {
+        "name": "740",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/740.pdf"
+      },
+      {
+        "name": "741",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/741.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "PROTECO",
+    "models": [
+      {
+        "name": "740",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/740.pdf"
+      },
+      {
+        "name": "741",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/741.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "SEAV",
+    "models": [
+      {
+        "name": "740",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/740.pdf"
+      },
+      {
+        "name": "741",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/741.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "ROGER",
+    "models": [
+      {
+        "name": "740",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/740.pdf"
+      },
+      {
+        "name": "741",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/741.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "GIBIDI",
+    "models": [
+      {
+        "name": "740",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/740.pdf"
+      },
+      {
+        "name": "741",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/741.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "STEEL-LINE",
+    "models": [
+      {
+        "name": "740",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/740.pdf"
+      },
+      {
+        "name": "741",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/741.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "GLIDEROL",
+    "models": [
+      {
+        "name": "740",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/740.pdf"
+      },
+      {
+        "name": "741",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/741.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "ELSEMA",
+    "models": [
+      {
+        "name": "740",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/740.pdf"
+      },
+      {
+        "name": "741",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/741.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "SEA",
+    "models": [
+      {
+        "name": "740",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/740.pdf"
+      },
+      {
+        "name": "741",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/741.pdf"
+      }
+    ]
+  },
+  {
+    "supplier": "CENTURION",
+    "models": [
+      {
+        "name": "740",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/740.pdf"
+      },
+      {
+        "name": "741",
+        "manualUrl": "https://supplier-list-gamma.vercel.app/manuals/741.pdf"
+      }
+    ]
+  }
+]
